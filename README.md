@@ -20,6 +20,7 @@ Suitable for **TDD/demo/study**, and as a skeleton mini-sandbox based on Solana 
 
 ## List of implementations:
 - [Python FastAPI](https://github.com/rustkas/mini-ledger-solana-python)
+- [TypeScript](https://github.com/rustkas/mini-ledger-solana-ts)
 
 ## Why "mini-implementation"
 
